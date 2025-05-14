@@ -8,7 +8,10 @@
 ![Welcome Screen](screenshots/welcome.png)
 
 ### ⏳ Timer Running  
-![Timer Running](screenshots/eggtype.png)
+![Egg Type](screenshots/eggtype.png)
+
+### ⏳ Timer Running  
+![Custom Time](screenshots/custom.png)
 
 ### 🚨 Alarm Popup  
 ![Alarm Popup](screenshots/timer.png)
