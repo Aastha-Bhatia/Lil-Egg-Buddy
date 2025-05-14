@@ -100,7 +100,7 @@ public class EggTimer {
             createHomePage();
         });
         
-        JLabel title = new JLabel("Choose your egg type...", SwingConstants.CENTER);
+        JLabel title = new JLabel("Choose your egg type", SwingConstants.CENTER);
         title.setFont(new Font("Comic Sans MS", Font.BOLD, 22));
         
         muteButton = new JButton(isMuted ? "Unmute" : "Mute");
@@ -194,7 +194,7 @@ public class EggTimer {
             showTimerSelectionPage();
         });
         
-        JLabel boilingLabel = new JLabel("Boiling your egg...", SwingConstants.CENTER);
+        JLabel boilingLabel = new JLabel("Boiling your egg", SwingConstants.CENTER);
         boilingLabel.setFont(new Font("Comic Sans MS", Font.BOLD, 22));
         
         muteButton = new JButton(isMuted ? "Unmute" : "Mute");
